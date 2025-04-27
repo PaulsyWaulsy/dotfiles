@@ -43,7 +43,7 @@
 # resize-overlay-duration = 4s 200ms
 
 # Specified preferd font
-font-family = "CaskaydiaMono NFM SemiBold"
+font-family = "CaskaydiaMono NFM"
 font-size = 13
 
 # Window Preferences
